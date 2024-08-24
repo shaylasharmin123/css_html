@@ -1,0 +1,42 @@
+img{
+	width:1250px;
+	height:500px;
+}
+h1{
+	font-size:45px;
+}
+p{
+	font-size: 25px;
+}
+.desh{
+	margin-left: 500px;
+	margin-right: 430px;
+	border: 5px solid black;
+	padding: 20px;
+	background-color: gray;
+	font-size: 50px;
+
+}
+.bangla{
+	background-color:yellow;
+	border: 5px solid black;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 30px;
+
+}
+.icon{
+	width:20px;
+	height: 20px;
+}
+.list{
+	background-color:red;
+	border:5px solid black;
+	padding: 20px;
+	margin-left: 30px;
+	margin-right: 500px;
+}
+.list_ol{
+	margin-left: 30px;
+	font-size: 25px;
+}
